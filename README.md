@@ -1,4 +1,6 @@
-# pip install pandas matplotlib seaborn scikit-learn numpy
+# Install necessary packages:
+
+    pip install pandas matplotlib seaborn scikit-learn numpy
 
 # Dataset: 
 
