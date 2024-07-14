@@ -134,10 +134,6 @@ The dataset used in this project is available on Kaggle: [Adult Income Dataset](
     importances = {k: v for k, v in sorted(importances.items(), key=lambda x: x[1], reverse=True)}
     ```
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - The dataset used in this project is from Kaggle: [Adult Income Dataset](https://www.kaggle.com/datasets/wenruliu/adult-income-dataset).
